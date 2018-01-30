@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Chose Software Development"
-date:       2018-01-30 03:53:13 +0000
+date:       2018-01-29 22:53:14 -0500
 permalink:  why_i_chose_software_development
 ---
 
