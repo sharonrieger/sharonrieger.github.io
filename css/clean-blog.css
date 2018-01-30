@@ -155,16 +155,6 @@ hr.small {
   color: white;
 }
 
-
-
-.subheading,
-.intro-header .post-heading .meta{
-    background:rgba(0,0,0,0.65);
-  color:#fcf3d0;
-  padding:1em;
-  text-align:center;
-}
-
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
   .intro-header .post-heading,
@@ -186,7 +176,14 @@ hr.small {
 
 .intro-header .site-heading,
 .intro-header .page-heading {
-  text-align: center;
+   background:rgba(0,0,0,0.65);
+  -moz-border-radius:50%;
+   border-radius:50%;
+  -moz-border-radius:50%;
+  
+  color:#fcf3d0;
+  padding:1em;
+  text-align:center;
 }
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
