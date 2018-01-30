@@ -161,6 +161,15 @@ hr.small {
     padding: 150px 0;
   }
 }
+
+.site-heading h1{
+  background:rgba(0,0,0,0.65);
+  color:#fcf3d0;
+  padding:1em;
+  
+}
+
+
 .intro-header .site-heading,
 .intro-header .page-heading {
   text-align: center;
